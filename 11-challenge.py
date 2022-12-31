@@ -1,6 +1,5 @@
 # Tic-Tac-Toe
 # Plays the game of tic-tac-toe against a human opponent
-
 # global constants
 X = "X"
 O = "O"

@@ -1,5 +1,3 @@
-# Challenge 5.1
-#
 # This program prints list of words in random order
 import random
 WORDS = ("OVERUSED","CLAM", "GUAM", "TAFFETA", "PYTHON")

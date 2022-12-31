@@ -1,4 +1,3 @@
-# Challenge 2
 # This program flips a coin 100 times and tells you the
 # number of heads and tails
 

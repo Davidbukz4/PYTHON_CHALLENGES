@@ -1,5 +1,3 @@
-# Challenge 5
-#
 # Write a Who's Your Daddy? program that lets user enter the name of a male
 # and produces the name of his father. Allow the user to add, replace, and
 # delete son-father pairs.
